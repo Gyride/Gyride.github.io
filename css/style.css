@@ -215,7 +215,7 @@ body {
   font-size: 16px;
 }
 
-.projects .desc a {
+.projects .desc #code {
   position: absolute;
   display: block;
   width: 106px;
